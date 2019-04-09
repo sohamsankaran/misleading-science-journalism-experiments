@@ -1,7 +1,8 @@
-Soham Sankaran, March 31 2019.
-https://soh.am/
+Survey methodology and replication instructions
+-----------------------------------------------
+Soham Sankaran (April 8, 2019)
 
-These are the survey materials for the experiment accompanying the article titled "At the Edge of Deception: Towards a quantitative standard of journalistic accuracy", which can be found at https://soh.am/writes/at_the_edge_of_deception/.
+In this folder are the survey materials for the experiment accompanying the article titled "At the Edge of Deception: Towards a quantitative standard of journalistic accuracy", which can be found at https://soh.am/writes/at_the_edge_of_deception/.
 
 There were three surveys used for the experiment: shared_control, nyt_weight_loss_experimental, and dailybeast_teen_suicide_experimental. The surveys were conducted on Qualtrics (https://qualtrics.com) Each survey is associated with a pdf file and qsf file in this directory.
 
@@ -29,4 +30,10 @@ i) Did reading the article change your mind about which suicide rate was higher?
 
 In order to replicate the experiment, you may import the qsf files provided into Qualtrics and use them to run your own.
 
+Note that each arm of each experiment described here was conducted on Amazon Mechanical Turk over the course of a few hours on either April 10 or 11 of 2018. Only US-based participants (as qualified by Amazon) were allowed (though it is of course possible that some small percentage spoofed their location). Each participant was paid $0.50 for completing their survey. I estimated that each participant would take ~5 minutes to complete their survey based on informal piloting on some graduate students at the Human Nature Lab. I spent a total of ~$220 (entirely my own personal funds) on these experiments, including Amazon's AMT levy and a small pilot test.
+
 These surveys include the full text of the articles involved. These articles are are copyrighted by the New York Times and The Daily Beast respectively, and are included here in good faith under the fair use exemption for research such that this experiment may be replicated easily by any who so choose.
+
+Soham Sankaran
+https://soh.am/
+
